@@ -1,0 +1,11 @@
+{
+    "name": "pawel/recomendation",
+    "autoload": {
+        "psr-4": {
+            "MoviesRecommendation\\": "src/MoviesRecommendation/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
